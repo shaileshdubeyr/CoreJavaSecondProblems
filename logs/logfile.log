@@ -1,0 +1,15 @@
+INFO  | 2021-09-21 10:37:56 | [main] myjava.App (App.java:20) - Hello  worldwill be printed on debug
+WARN  | 2021-09-21 10:37:56 | [main] myjava.App (App.java:21) - Hello  worldwill be printed on debug
+ERROR | 2021-09-21 10:37:56 | [main] myjava.App (App.java:22) - Hello  worldwill be printed on debug
+FATAL | 2021-09-21 10:37:56 | [main] myjava.App (App.java:23) - Hello  worldwill be printed on debug
+INFO  | 2021-09-21 10:37:56 | [main] myjava.App (App.java:24) - Appending string : Hello  world.
+INFO  | 2021-09-22 08:29:39 | [main] myjava.App (App.java:19) - Hello  worldwill be printed on debug
+WARN  | 2021-09-22 08:29:39 | [main] myjava.App (App.java:20) - Hello  worldwill be printed on debug
+ERROR | 2021-09-22 08:29:39 | [main] myjava.App (App.java:21) - Hello  worldwill be printed on debug
+FATAL | 2021-09-22 08:29:39 | [main] myjava.App (App.java:22) - Hello  worldwill be printed on debug
+INFO  | 2021-09-22 08:29:39 | [main] myjava.App (App.java:23) - Appending string : Hello  world.
+INFO  | 2021-09-22 08:33:53 | [main] myjava.App (App.java:19) - Hello  worldwill be printed on debug
+WARN  | 2021-09-22 08:33:53 | [main] myjava.App (App.java:20) - Hello  worldwill be printed on debug
+ERROR | 2021-09-22 08:33:53 | [main] myjava.App (App.java:21) - Hello  worldwill be printed on debug
+FATAL | 2021-09-22 08:33:53 | [main] myjava.App (App.java:22) - Hello  worldwill be printed on debug
+INFO  | 2021-09-22 08:33:53 | [main] myjava.App (App.java:23) - Appending string : Hello  world.
